@@ -29,5 +29,5 @@ function appendMessage(sender: Sender, text: string): void {
 
 function getBotResponse(userMsg: string): string {
   // to do
-  return `You said: "${userMsg}" — complete the codes you lazy human!`;
+  return `complete the codes you lazy human :3`;
 }
